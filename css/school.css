@@ -1,0 +1,10 @@
+body{
+    background-image: url(/img/green\ background1.png);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+table {
+    background-color: lightblue;
+    font-size: 2vw;
+    border: 1px solid black;
+}
